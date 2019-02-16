@@ -44,6 +44,8 @@ Assets/StreamingAssets/crashlytics-build.properties
 .scannerwork/
 .vscode/
 
+Docs/
+
 /*.meta
 Documentation/**/*.meta
 Scripts/**/*.meta
